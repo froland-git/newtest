@@ -9,3 +9,4 @@ Commit for squash 2
 Commit for squash 3
 Commit for squash 1 GitHub
 Commit for squash 2 GitHub
+Commit for squash 3 GitHub
