@@ -2,3 +2,4 @@ This is original string in masterfile.txt
 Create string before: First commit into feature/rebase1
 First commit into feature/rebase1
 Create string before: Second commit into feature/rebase2
+Second commit into feature/rebase2
